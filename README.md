@@ -1,3 +1,4 @@
 # 2nd-Sem_Lab_work
+MCA SEM 1 Lab Work 1P01
 <br>
-This repository is for MCA lab work(2nd Sem).
+This is my Lab Work of MCA 1st semester.
