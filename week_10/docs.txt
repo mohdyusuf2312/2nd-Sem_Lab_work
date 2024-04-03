@@ -1,0 +1,4 @@
+Hello, world!
+This is an example file.
+It contains some text for character counting.
+The number of characters in this file will be counted by the program.
